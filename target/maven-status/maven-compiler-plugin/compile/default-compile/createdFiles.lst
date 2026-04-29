@@ -1,0 +1,9 @@
+com\timetable\gui\MainApp$1.class
+com\timetable\model\Subject.class
+com\timetable\gui\MainApp.class
+com\timetable\model\SemesterConfig.class
+com\timetable\generator\TimetableGenerator.class
+com\timetable\db\DatabaseManager.class
+com\timetable\model\TimetableEntry.class
+com\timetable\input\InputCollector.class
+com\timetable\model\Staff.class
